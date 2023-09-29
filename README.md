@@ -5,5 +5,6 @@
 - &#128187; Programming languages:
 - ![html-5 (2)](https://github.com/leanbertolottiii/leanbertolottiii/assets/133821912/ea3ec188-8b2a-4edc-ae0f-28afb37ad874)
   ![css-3 (1)](https://github.com/leanbertolottiii/leanbertolottiii/assets/133821912/db2517b0-9a87-452b-9c5f-119dc1c80b16)
+  ![js (1)](https://github.com/leanbertolottiii/leanbertolottiii/assets/133821912/875036f0-1963-4aea-b2c1-dbccabd080f7)
   ![php (1)](https://github.com/leanbertolottiii/leanbertolottiii/assets/133821912/f864ccb2-3c9c-44de-8680-0c4252028bc3)
   ![mysql (1)](https://github.com/leanbertolottiii/leanbertolottiii/assets/133821912/f530b2ed-06b4-4911-8df1-71010e2bfbd7)
