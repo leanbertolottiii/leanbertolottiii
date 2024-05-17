@@ -1,4 +1,4 @@
-### &#128587; Hi, I'm Leandro Bertolotti, I'm 17 years old and I'm a programming student.
+### &#128587; Hi, I'm Leandro Bertolotti, I'm 18 years old and I'm a programming student.
 - &#127757; I'm from Argentina
 - &#128221; I'm studying at Technical Secondary School N°1 Monte Grande, Buenos Aires.
 - &#128235; contact email address leanbertolotti@gmail.com
